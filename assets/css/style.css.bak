@@ -1,0 +1,231 @@
+/*common selector start*/
+*{
+	box-sizing: border-box;
+}
+/*body{
+	margin: 0;
+	padding: 0;
+}
+*/
+.container-full{
+	width: 100%;
+	/*border: 2px solid red;*/
+}
+.container{
+	width: 70%;
+	/*border: 2px solid green;*/
+	margin: 0px auto;
+}
+.bg-primary{
+	background-color: #cccccc;
+}
+.bg-secondary{
+	background-color: #dddddd;
+}
+.bg-white{
+	background-color: #ffffff;
+}
+.bg-off-white{
+	background-color: #f5f5f5;
+}
+.bg-light-blue{
+	background-color: #00abd4;
+}
+.bg-dark-gray{
+	background-color: #bbbbbb;
+}
+.color-black{
+	color: #000000;
+}
+.color-blue{
+	color: #00c6f0;
+}
+.color-light-blue{
+	color: #00abd4;
+}
+.color-light-gray{
+	color: #999999;
+}
+.color-white{
+	color: white;
+}
+.text-decoration{
+	text-decoration: none;
+}
+.list-style-type{
+	list-style-type: none;
+}
+.m-0{
+	margin: 0px;
+}
+.m-1{
+	margin: 10px;
+}
+.mt-1{
+	margin-top: 20px;
+}
+.mb-1{
+	margin: 0px 0px 20px 0px;
+}
+.p-0{
+	padding: 0px;
+}
+.p-1{
+	padding: 10px;
+}
+.p-2{
+	padding: 10px 20px;
+}
+.p-3{
+	padding: 25px;
+}
+/*padding top start*/
+.pt-1{
+	padding: 10px 0px 0px 0px;
+}
+.pt-2{
+	padding: 20px 0px 0px 0px;
+}
+.pt-3{
+	padding: 30px 0px 0px 0px;
+}
+/*padding top end*/
+
+/*padding bottom start*/
+.pb-1{
+	padding: 0px 0px 10px 0px;
+}
+.pb-2{
+	padding: 0px 0px 20px 0px;
+}
+.pb-3{
+	padding: 0px 0px 30px 0px;
+}
+/*padding bottom end*/
+.d-block{
+	display: block;
+}
+.d-inline-block{
+	display: inline-block;
+}
+.text-right{
+	text-align: right;
+}
+.text-center{
+	text-align: center;
+}
+.text-justify{
+	text-align: justify;
+}
+.text-right{
+	text-align: right;
+}
+.w-100{
+	width: 100%;
+}
+.w-75{
+	width: 75%;
+}
+.w-50{
+	width: 50%;
+}
+.w-25{
+	width: 25%;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.clear-both{
+	clear: both;
+}
+.border{
+	border: 1px solid blue;
+}
+.paragraph{
+	font-family: "trebuchet ms", arial, sans-serif;
+	font-size: 12.8px;
+	font-weight: 400;
+	line-height: 21px;
+}
+.heading{
+		
+font-family: "century gothic", arial;
+font-size: 21.76px;
+font-weight: 400;
+}
+.heading-1{
+	font-family: arial;
+	font-size: 14.08px;
+	font-weight: 400;
+}
+.heading-2{
+	font-family: "century gothic", arial;
+	font-size: 17.92px;
+	font-weight: 400;
+}
+.border-1{
+	border: 2px solid #f5f5f5;
+	border-radius: 15px;
+}
+/*common selector end*/
+
+/*header part start*/
+.header{}
+.header-inner{}
+.header-inner h1{
+	letter-spacing: 3px;
+	font-family: "century gothic", arial, sans-serif;
+	font-size: 38.4px;
+	font-weight: 500;
+}
+.header-inner a{
+	
+}
+.header-inner a:hover{
+		color: #8897ba;
+}
+.header-inner small{
+	font-family: "century gothic", arial, sans-serif;
+	font-size: 15.36px;
+	font-weight: 400;
+}
+/*header part end*/
+
+/*nav part start*/
+.nav-inner{}
+.nav-inner a:hover{
+	color: #000000; 
+}
+/*nav part end*/
+
+/*banner part start*/
+.banner-inner{}
+/*banner part end*/
+
+/*main part start*/
+.main-inner{}
+/*main part end*/
+.main{}
+.main-inner{}
+.aside{}
+.main-body{}
+.main-content{}
+.strong{
+	font-family: "trebuchet ms", arial, sans-serif;
+	font-size: 12.8px;
+	font-weight: 700;
+}
+/*footer part start*/
+.footer-inner{}
+.footer-inner a{
+	font-family: "trebuchet ms", sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+}
+.footer-inner a:hover{
+	color: #00abd4;
+}
+/*footer part end*/
